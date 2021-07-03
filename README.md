@@ -1,5 +1,6 @@
 # KenKen-Solver
 ----
+[![Python application](https://github.com/royreznik/KenKen-Solver/actions/workflows/python-app.yml/badge.svg)](https://github.com/royreznik/KenKen-Solver/actions/workflows/python-app.yml)
 ![coverage](https://img.shields.io/badge/coverage-100%25-brightgreen)
 ![python](https://img.shields.io/github/pipenv/locked/python-version/royreznik/kenken-solver)
 ![last commit](https://img.shields.io/github/last-commit/royreznik/kenken-solver)
